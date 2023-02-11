@@ -1,5 +1,5 @@
 <h1 align="left">Hi Everyone. 👋 I'm, I Putu Purwa Wiadnyana Putra</h1>
-<h3 align="left">I am usually called Purwa and I am a student who is learning and wants to pursue a career in the IT world. If you want to know more about me, please check my social media or email.</h3>
+<h4 align="left">I am usually called Purwa and I am a student who is learning and wants to pursue a career in the IT world. If you want to know more about me, please check my social media or email.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wdnyana&label=Profile%20views&color=0e75b6&style=flat" alt="wdnyana" /> </p>
 
