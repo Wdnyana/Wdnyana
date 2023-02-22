@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-&ensp; &ensp; - 📫 How to reach me purwawiadnyana08@gmail.com
+&ensp; &ensp; - 📫 How to reach me: purwawiadnyana08@gmail.com
 </p>
 
 <h2 align="left">Skills:</h2>
