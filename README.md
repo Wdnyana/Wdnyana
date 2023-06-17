@@ -83,11 +83,11 @@
 
 ## 🔥 My Github Stats: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wdnyana&layout=compact&theme=vue-dark&text_color=C1CFC0&title_color=E7E0C9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wdnyana&layout=compact&theme=outrun&text_color=C1CFC0&title_color=E7E0C9)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wdnyana&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wdnyana&theme=outrun)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wdnyana&theme=vue-dark&show_icons=true&text_color=C1CFC0&title_color=E7E0C9)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wdnyana&theme=outrun&show_icons=true&text_color=C1CFC0&title_color=E7E0C9)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ###
