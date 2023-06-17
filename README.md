@@ -81,4 +81,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="github logo"  />
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wdnyana&show_icons=true&theme=outrun)
 ###
