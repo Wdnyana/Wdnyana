@@ -81,5 +81,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="github logo"  />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wdnyana&show_icons=true&theme=outrun)
+## 📊 My Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wdnyana&theme=vue-dark)](https://git.io/streak-stats)
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wdnyana&theme=vue-dark&show_icons=true&text_color=C1CFC0&title_color=E7E0C9)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wdnyana&layout=compact&theme=vue-dark&text_color=C1CFC0&title_color=E7E0C9)](https://github.com/anuraghazra/github-readme-stats)
 ###
