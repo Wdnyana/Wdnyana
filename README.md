@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h2 align="left">🤙 About Me</h2>
 
 ###
 
-<p align="left">📚 I'm currently learning to become a web developer<br>🎯 Goals: Collaborate, network with other developers, Keep learning and experimenting.</p>
+<p align="left">👩‍💻 Motivated Web Developer with a strong background in programming languages and web technologies, with a particular passion for frontend development. Experienced in creating and maintaining websites and applications, and dedicated to adding eye-catching, beautiful touches to every interactive animation. Committed to collaborating with teams to achieve project goals while continuously enhancing technical skills.</p>
 
 ###
 
